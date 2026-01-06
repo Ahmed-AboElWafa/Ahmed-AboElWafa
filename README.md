@@ -1,4 +1,4 @@
-# Ahmed AboElwafa 👋2
+# Ahmed AboElwafa 👋
 **DevOps Engineer** focused on AWS & Kubernetes — building secure, automated delivery pipelines with **Terraform, Jenkins, ArgoCD (GitOps), Docker**, and observability using **Prometheus/Grafana**.
 
 📍 Egypt • ✉️ aboelwafa200200@gmail.com • 💼 LinkedIn: https://www.linkedin.com/in/ahmedabouelwafa/  
